@@ -1,3 +1,5 @@
+![Alt text](/Host_a_Static_Website_on_AWS.png)
+
 **Project: Hosting a Static Website on AWS**
 
 This repository contains scripts and configurations to deploy a static HTML web application on AWS infrastructure. Below is an overview of the project setup and deployment process.
